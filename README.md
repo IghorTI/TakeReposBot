@@ -26,7 +26,8 @@ Dentro da Pasta TakeReposBot/TakeGitRepositories/ é possível acessar o arquivo
 
 # How to run
 
-Para rodar o projeto basta clonar o repository, e abrir o TakeGitRepositories.sln com o Visual Studio. 
+Para rodar o projeto basta clonar o repository, e abrir o TakeGitRepositories.sln com o Visual Studio e executar a aplicação e o endereço parecido deve aparecer na URL:
+ https://localhost:44365/Api/TakeGitRepostories com o json como resultado.  
 
 
 
