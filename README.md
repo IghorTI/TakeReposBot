@@ -24,6 +24,7 @@ Dentro da Pasta TakeReposBot/TakeGitRepositories/ é possível acessar o arquivo
 
 6) O Bot foi construido no https://portal.blip.ai/ com o nome de takereposbot. O arquivo texto com o json do bot pode ser acesso no diretorio TakeReposBot/TakeGitRepositories/TakeReposBot_Json.txt
 
+7) Resultado:
 
 ![image](https://drive.google.com/uc?export=view&id=1PaKfjbplaTC2H5sGiDwkUQZUKN5x8N9C)
 
