@@ -10,5 +10,21 @@ Dentro da Pasta TakeReposBot/TakeGitRepositories/ é possível acessar o arquivo
 
 
 
+# Step by Step
+
+1) Foi criado o método ProcessRepositories() que faz a busca na API do Git e retorna o json com todos os dados.
+
+2) Foi criado uma o arquivo Repos, utilizando Paste Special Past JSON as Classes foi criado as classes correspontes com o retorno do JSON, exemplo: Rootobject, Owne, Permissions.
+
+3) Foi criado o método  FirstFiveRepository() que retorna as informações sobre os 5 repositórios de linguagem C# mais antigos da Take, ordenados de forma crescente por data de criação.
+
+4) Foi criado o método PopulateObjectForCarousel() entrega o JSON necessário para a construição do carrosel. Também foi criado outro método chamado PopulateObjectForCarouselUsingString() que retorna o mesmo JSON, mas de uma maneira diferente.
+
+5) Get() é a API que retorna a requisição HTTP
+
+6) O Bot foi construido no https://portal.blip.ai/ com o nome de takereposbot. O arquivo texto com o json do bot pode ser acesso no diretorio TakeReposBot/TakeGitRepositories/TakeReposBot_Json.txt
+
+
+
 
 
