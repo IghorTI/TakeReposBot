@@ -1,0 +1,180 @@
+Date: 2020-10-30 11:36:10
+
+Id: 92a5be20-c8f9-40ee-9f26-88f100d07bac
+
+From: takereposbot@msging.net/msging-application-builder-hosting-standard-664d684cc-tdgls
+
+To: 4f31e4cf-4d64-4ef4-9231-ee7b7111ddac.takereposbot@0mn.io/default
+
+Type: text/plain
+
+Content:
+
+Olá! Tester 30-10-20 11:36:03!
+espero que esteja tudo bem! Sou o chatbot do Ighor e desde já agradeço a oportunidade.
+Metadata:
+
+{
+  "#stateName": "Boas vindas",
+  "#stateId": "welcome",
+  "#messageId": "fa5daea1-7381-4d68-bcd6-39c3ef5c3455",
+  "uber-trace-id": "aa857075ffa0b3ad%3Aacee72848db1d45e%3Adba04e2c242c6f1f%3A1"
+}
+
+Date: 2020-10-30 11:36:11
+
+Id: 46c66275-0a6d-4662-b712-bda9467862b0
+
+From: takereposbot@msging.net/msging-application-builder-hosting-standard-664d684cc-tdgls
+
+To: 4f31e4cf-4d64-4ef4-9231-ee7b7111ddac.takereposbot@0mn.io/default
+
+Type: text/plain
+
+Content:
+
+Fui criado com o propósito de recuperar os 5 repositórios mais antigos da Take no Git, da linguagem C#, não podemos nos esquecer disso. E exibi-los em forma de carrosel em ordem crescente.
+Metadata:
+
+{
+  "#stateName": "Boas vindas",
+  "#stateId": "welcome",
+  "#messageId": "fa5daea1-7381-4d68-bcd6-39c3ef5c3455",
+  "uber-trace-id": "aa857075ffa0b3ad%3A675b2f3159d93235%3A3e4b3ca3ddfa6564%3A1"
+}
+
+Date: 2020-10-30 11:36:11
+
+Id: 035a1918-3ebd-402a-820d-1776dc36d12e
+
+From: takereposbot@msging.net/msging-application-builder-hosting-standard-664d684cc-tdgls
+
+To: 4f31e4cf-4d64-4ef4-9231-ee7b7111ddac.takereposbot@0mn.io/default
+
+Type: text/plain
+
+Content:
+
+Então vamos lá...
+Metadata:
+
+{
+  "#stateName": "Boas vindas",
+  "#stateId": "welcome",
+  "#messageId": "fa5daea1-7381-4d68-bcd6-39c3ef5c3455",
+  "uber-trace-id": "aa857075ffa0b3ad%3A3261cf818ba09907%3A3ab1ff6a269dcdc0%3A1"
+}
+
+Date: 2020-10-30 11:36:14
+
+Id: e29bd084-058a-4eaa-9937-0955d1b52d94
+
+From: takereposbot@msging.net/msging-application-builder-hosting-standard-664d684cc-tdgls
+
+To: 4f31e4cf-4d64-4ef4-9231-ee7b7111ddac.takereposbot@0mn.io/default
+
+Type: application/vnd.lime.collection+json
+
+Content:
+
+{
+  "itemType": "application/vnd.lime.document-select+json",
+  "items": [
+    {
+      "header": {
+        "type": "application/vnd.lime.media-link+json",
+        "value": {
+          "type": "image/jpeg",
+          "uri": "https://avatars3.githubusercontent.com/u/4369522?v=4",
+          "title": "takenet/library.data",
+          "text": "Provides a simple abstraction for implementing the repository and unit of work patterns for data-enabled applications"
+        }
+      }
+    },
+    {
+      "header": {
+        "type": "application/vnd.lime.media-link+json",
+        "value": {
+          "type": "image/jpeg",
+          "uri": "https://avatars3.githubusercontent.com/u/4369522?v=4",
+          "title": "takenet/library.logging",
+          "text": "Provides a simple logging interface for applications and some basic implementations of this interface"
+        }
+      }
+    },
+    {
+      "header": {
+        "type": "application/vnd.lime.media-link+json",
+        "value": {
+          "type": "image/jpeg",
+          "uri": "https://avatars3.githubusercontent.com/u/4369522?v=4",
+          "title": "takenet/libphonenumber-csharp",
+          "text": "Forking original c# port"
+        }
+      }
+    },
+    {
+      "header": {
+        "type": "application/vnd.lime.media-link+json",
+        "value": {
+          "type": "image/jpeg",
+          "uri": "https://avatars3.githubusercontent.com/u/4369522?v=4",
+          "title": "takenet/Takenet.Radar",
+          "text": "Radar de tecnologias takenet"
+        }
+      }
+    },
+    {
+      "header": {
+        "type": "application/vnd.lime.media-link+json",
+        "value": {
+          "type": "image/jpeg",
+          "uri": "https://avatars3.githubusercontent.com/u/4369522?v=4",
+          "title": "takenet/Takenet.ScoreSystem",
+          "text": "Takenet score system"
+        }
+      }
+    }
+  ]
+}
+Metadata:
+
+{
+  "#stateName": "Carrossel",
+  "#stateId": "6e03ab84-100c-4930-868a-12b6893b6279",
+  "#messageId": "fa5daea1-7381-4d68-bcd6-39c3ef5c3455",
+  "uber-trace-id": "aa857075ffa0b3ad%3Aa9532350a1c17986%3A9dbf5fea33a81ab%3A1"
+}
+
+Date: 2020-10-30 11:36:15
+
+Id: 83ed395d-d86f-40e0-aaf9-0c5f639e7e2f
+
+From: takereposbot@msging.net/msging-application-builder-hosting-standard-664d684cc-tdgls
+
+To: 4f31e4cf-4d64-4ef4-9231-ee7b7111ddac.takereposbot@0mn.io/default
+
+Type: application/vnd.lime.select+json
+
+Content:
+
+{
+  "scope": "immediate",
+  "text": "Deseja repetir o fluxo?",
+  "options": [
+    {
+      "text": "Sim"
+    },
+    {
+      "text": "Não"
+    }
+  ]
+}
+Metadata:
+
+{
+  "#stateName": "Carrossel",
+  "#stateId": "6e03ab84-100c-4930-868a-12b6893b6279",
+  "#messageId": "fa5daea1-7381-4d68-bcd6-39c3ef5c3455",
+  "uber-trace-id": "aa857075ffa0b3ad%3A5ef6fed296f0dec6%3A5a3d447e9af572cc%3A1"
+}
