@@ -14,7 +14,7 @@ Dentro da Pasta TakeReposBot/TakeGitRepositories/ é possível acessar o arquivo
 
 1) Foi criado o método ProcessRepositories() que faz a busca na API do Git e retorna o json com todos os dados.
 
-2) Foi criado uma o arquivo Repos, utilizando Paste Special Past JSON as Classes foi criado as classes correspontes com o retorno do JSON, exemplo: Rootobject, Owne, Permissions.
+2) Foi criado uma o arquivo Repos, utilizando "Paste Special Past JSON as Classes" foi criado as classes correspontes com o retorno do JSON, exemplo: Rootobject, Owne, Permissions.
 
 3) Foi criado o método  FirstFiveRepository() que retorna as informações sobre os 5 repositórios de linguagem C# mais antigos da Take, ordenados de forma crescente por data de criação.
 
