@@ -20,7 +20,7 @@ Dentro da Pasta TakeReposBot/TakeGitRepositories/ é possível acessar o arquivo
 
 4) Foi criado o método PopulateObjectForCarousel() entrega o JSON necessário para a construição do carrosel. Também foi criado outro método chamado PopulateObjectForCarouselUsingString() que retorna o mesmo JSON, mas de uma maneira diferente.
 
-5) Get() é a API que retorna a requisição HTTP
+5) E através de um GET a API que retorna a requisição HTTP
 
 6) O Bot foi construido no https://portal.blip.ai/ com o nome de takereposbot. O arquivo texto com o json do bot pode ser acesso no diretorio TakeReposBot/TakeGitRepositories/TakeReposBot_Json.txt
 
