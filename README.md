@@ -24,6 +24,8 @@ Dentro da Pasta TakeReposBot/TakeGitRepositories/ é possível acessar o arquivo
 
 6) O Bot foi construido no https://portal.blip.ai/ com o nome de takereposbot. O arquivo texto com o json do bot pode ser acesso no diretorio TakeReposBot/TakeGitRepositories/TakeReposBot_Json.txt
 
+![image](https://drive.google.com/file/d/1PaKfjbplaTC2H5sGiDwkUQZUKN5x8N9C/view?usp=sharing)
+
 # How to run
 
 Para rodar o projeto basta clonar o repository, e abrir o TakeGitRepositories.sln com o Visual Studio e executar a aplicação e o endereço parecido deve aparecer na URL:
